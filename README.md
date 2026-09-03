@@ -37,11 +37,11 @@ Autonomous vulnerability detection & patching system built for a national-securi
  
 ### 🏆 Achievements
  
-- 🥇 Winner, GDG Nirmaan 4.0 (Health track) — built **MedCare AI**
 - 🥇 Winner, GDG Nirmaan 3.0
 - 🥈 2nd Runner-Up, IIT Delhi CodeRed Appathon
+- Astrothon winner
 - 🧠 QCluster Quiz Champion
----
+-Head Boy(APS Bhopal)
  
 ### 🧰 Tech Stack
  
