@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karthik 👋</h1>
-<h3 align="center">Backend Engineer in the making — Java · Spring Boot · PostgreSQL · REST APIs</h3>
+<h3 align="center">Software Engineer — Java · Spring Boot · React · PostgreSQL</h3>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthikbuilds&style=flat&color=blueviolet" alt="Profile views"/>
@@ -11,52 +11,66 @@
  
 ### About Me
  
-- 🎓 3rd-year Electronics & Communication Engineering student at **Army Institute of Technology, Pune** — CGPA 8.53/10
-- 🛠️ Building backend systems with **Java, Spring Boot, PostgreSQL**, following clean Controller-Service-Repository-DTO architecture
-- ⚛️ Comfortable across the stack with **React** on the frontend
-- 🧩 Sharpening problem-solving through structured **DSA practice in Java**
-- 🛡️ Currently building a cyber-reasoning system (LLM + fuzzers + static/dynamic analysis) for **AI Kavach**, a defence-tech hackathon
-- 🏆 PMSS and EKAM Scholar
+Software Engineer with hands-on experience building full-stack applications using **Java, Spring Boot, Spring Security, React, and PostgreSQL**, with a strong foundation in Data Structures & Algorithms, OOP, and System Design. Experienced with AOP, microservices, and containerized deployment using Docker, with growing expertise in AI-integrated applications via Spring AI.
+ 
+- 🎓 B.E. Electronics & Communication Engineering, **Army Institute of Technology, Pune** (2024–2028) — CGPA 8.53/10
+- 💼 Web Developer Intern @ **SnaccMate** (Remote) — Sept–Nov 2025
+- 🏆 PMSS Scholar (Prime Minister's Special Scholarship) & EKAM Scholar
+- 🧩 Solved 100+ DSA problems
+- 🌱 Core Organizer, Startup Saga 4.0 — Innovation & Entrepreneurship Cell, AIT Pune
+---
+ 
+### 💼 Experience
+ 
+**Web Developer Intern — SnaccMate** *(Remote, Sept 2025 – Nov 2025)*
+- Developed and integrated RESTful APIs with responsive web components, improving feature delivery by ~20% through iterative Agile development
+- Delivered 3+ user-facing features using OOP principles, component-based architecture, and reusable frontend components
 ---
  
 ### 🚀 Featured Projects
  
-**[E-Commerce Platform](https://github.com/karthikbuilds/ecom-backend)**
-Full-stack e-commerce app — Spring Boot + PostgreSQL backend, React frontend.
-`Java` `Spring Boot` `PostgreSQL` `REST API` `React`
+**[E-Commerce Web Application](https://github.com/karthikbuilds/ecom-backend)** — *June 2026*
+Full-stack e-commerce platform with a layered Controller-Service-Repository-DTO architecture. Product catalog with search and image upload, order flow with real-time stock validation, React 18 + Vite frontend integrating 15+ REST API endpoints via Axios.
+`React` `Spring Boot` `PostgreSQL` `REST APIs` `Spring Data JPA/Hibernate`
  
-**[JavaURL](https://github.com/karthikbuilds/JavaURL)**
-Full-stack URL shortener — auto-generated Base62 codes or custom aliases, optional expiry, one-click copy, redirect testing, and deactivation.
-`Java` `Full-Stack`
+**MedCare AI** — *Jan 2025*
+AI-powered healthcare platform with symptom checking, medical imaging analysis, and a Mental Wellness Assistant. Teleconsultation module with real-time data sync via Supabase. **Winner, GDG Nirmaan 4.0 hackathon.**
+`React` `TypeScript` `Vite` `Tailwind CSS` `Supabase` `ML Models`
  
-**[AI Kavach — Cyber-Reasoning System](#)** *(in progress)*
-Autonomous vulnerability detection & patching system built for a national-security hackathon; combines an LLM with fuzzers and static/dynamic analysis to find and fix bugs, then proves the fix holds.
-`Java` `Security` `LLM` `Automation`
+**[JavaURL (URL Shortener)](https://github.com/karthikbuilds/JavaURL)** — *Aug 2026*
+Full-stack URL shortener with collision-safe Base62 code generation, custom aliases, and link expiry handling. Real-time click analytics over STOMP WebSockets, stateless REST API secured with Spring Security + CORS. Containerized with Docker Compose, validated with 23 JUnit/Mockito/MockMvc tests.
+`Java 21` `Spring Boot 4` `PostgreSQL` `WebSockets` `Docker`
  
 ---
  
 ### 🏆 Achievements
  
 - 🥇 Winner, GDG Nirmaan 3.0
-- 🥈 2nd Runner-Up, IIT Delhi CodeRed Appathon
-- Astrothon winner
+- 🥈 2nd Runner-Up, CodeRed Appathon, IIT Delhi (500+ teams)
 - 🧠 QCluster Quiz Champion
--Head Boy(APS Bhopal)
+- 🗣️ Verbal Mention, APSMUN Noida
+- 🎓 Former Head Boy, APS Bhopal
+---
  
 ### 🧰 Tech Stack
  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" alt="Spring" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python" title="Python"/>
+  <img width="32" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="SQL" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" alt="Spring" title="Spring Boot / Spring Security / Spring AI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" alt="HTML" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" alt="CSS" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" alt="React" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" alt="Docker" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" alt="Postman" title="Postman"/>
+  <img width="32" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="32" alt="IntelliJ" title="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" alt="VS Code" title="VS Code"/>
 </p>
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+**Backend depth:** AOP · REST APIs · Microservices · Maven · JUnit · Multithreading · Collections Framework
+**Concepts:** SDLC · CI/CD
+ 
 ---
  
 ### 📊 GitHub Stats
