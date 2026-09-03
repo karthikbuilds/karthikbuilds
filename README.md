@@ -47,6 +47,7 @@ Full-stack URL shortener with collision-safe Base62 code generation, custom alia
  
 - 🥇 Winner, GDG Nirmaan 3.0
 - 🥈 2nd Runner-Up, CodeRed Appathon, IIT Delhi (500+ teams)
+- Astrothon 2026 Winner
 - 🧠 QCluster Quiz Champion
 - 🗣️ Verbal Mention, APSMUN Noida
 - 🎓 Former Head Boy, APS Bhopal
